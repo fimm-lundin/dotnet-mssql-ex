@@ -165,7 +165,7 @@
             "displayName": "Memory Limit",
             "description": "Maximum amount of memory the container can use.",
             "required": true,
-            "value": "512Mi"
+            "value": "8Gi"
         },
         {
             "name": "IMAGE",
@@ -197,7 +197,7 @@
             "name": "VOLUME_CAPACITY",
             "displayName": "Persistent Volume Capacity",
             "description": "Volume space available for data, e.g. 512Mi, 2Gi",
-            "value": "512Mi",
+            "value": "10Gi",
             "required": true
         }
     ]

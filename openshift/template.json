@@ -6,6 +6,7 @@
         "annotations": {
             "openshift.io/display-name": "Microsoft SQL Server",
             "description": "Relational database management system developed by Microsoft."
+            "iconClass": "icon-mssql"
         }
     },
     "objects": [
